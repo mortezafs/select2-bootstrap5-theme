@@ -5,7 +5,7 @@
 </p>
 <p>
 A [Select2](https://github.com/select2) v4 [Theme](https://select2.org/appearance#themes) for [Bootstrap v5.0.0-beta1](https://getbootstrap.com)
-/p>
+</p>
 
 [![select2-bootstrap5 version](https://img.shields.io/badge/select2--bootstrap5-v0.0.1--beta.1-success)](https://github.com/mortezafs/select2-bootstrap5-theme/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue)](http://opensource.org/licenses/MIT)
