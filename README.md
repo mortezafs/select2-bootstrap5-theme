@@ -21,8 +21,8 @@ You can [download select2 bootstrap5 theme from this GitHub repo](https://github
 select2 bootstrap5 theme only works with Select2 v4.x. Applying the theme requires `select2-bootstrap5.min.css` referenced after the default `select2.min.css` that comes with Select2:
 
 ```html
-<link href="select2.min.css" type="text/css" rel="stylesheet">
-<link href="select2-bootstrap5.min.css" type="text/css" rel="stylesheet">
+<link rel="stylesheet" href="select2.min.css">
+<link rel="stylesheet" href="select2-bootstrap5.min.css">
 <script src="select2.min.js" type="text/javascript"></script>
 ```
 
