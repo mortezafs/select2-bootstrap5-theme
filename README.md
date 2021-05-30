@@ -44,6 +44,7 @@ $.fn.select2.defaults.set( "theme", "bootstrap5" );
 
 #### 0.0.1-beta.1
 The first release
+
 #### 0.0.2
 FIx arrow position in dropdowns
 Fix some bad padding in styles
