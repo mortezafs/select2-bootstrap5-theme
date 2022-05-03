@@ -1,15 +1,16 @@
 A [Select2](https://github.com/select2) v4 [Theme](https://select2.org/appearance#themes) for [Bootstrap v5.0.0-beta1](https://getbootstrap.com)
 <p></p>
 
-[![select2-bootstrap5 version](https://img.shields.io/badge/select2--bootstrap5-v0.0.2-success)](https://github.com/mortezafs/select2-bootstrap5-theme/releases)
+[![select2-bootstrap5 version](https://img.shields.io/badge/select2--bootstrap5-v1.0.0-success)](https://github.com/mortezafs/select2-bootstrap5-theme/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue)](http://opensource.org/licenses/MIT)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-v5.x-blue)](https://getbootstrap.com)
 ![select2-bootstrap5-rtl](https://img.shields.io/badge/rtl-supported-important)
 ![select2-bootstrap5-ltr](https://img.shields.io/badge/ltr-supported-important)
+![select2-bootstrap5-dark](https://img.shields.io/badge/Dark%20mode-Supported-green)
 
 ### Compatibility
 
-Built and tested with Bootstrap v5.0.0-beta1 and Select2 v4.0.13 in the latest Chrome, Firefox.
+Built and tested with Bootstrap v5.1.3 and Select2 v4.0.13 in the latest Chrome, Firefox.
 It will support both rtl and ltr direction.
 
 ### Installation
@@ -40,6 +41,8 @@ You may also set it as the default theme for all Select2 widgets like so:
 $.fn.select2.defaults.set( "theme", "bootstrap5" );
 ```
 
+Note: if you want to us dark style you can use bootstrap5-dark instance of bootstrap5
+
 ### Changelog
 
 #### 0.0.1-beta.1
@@ -48,6 +51,11 @@ The first release
 #### 0.0.2
 FIx arrow position in dropdowns,
 Fix some bad padding in styles,
+And some major improvement.
+
+#### 1.0.0
+Fix dropdown size problem, 
+Add dark style to using in dark mode, 
 And some major improvement.
 
 #### Copyright and license
