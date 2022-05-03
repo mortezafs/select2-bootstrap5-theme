@@ -41,7 +41,7 @@ You may also set it as the default theme for all Select2 widgets like so:
 $.fn.select2.defaults.set( "theme", "bootstrap5" );
 ```
 
-Note: if you want to us dark style you can use bootstrap5-dark instance of bootstrap5
+Note: if you want to us dark style you can use bootstrap5-dark theme instance of bootstrap5, or you can add a .dark or .dark-theme for your body tag. We don't use  @media (prefers-color-scheme: dark) in styling to prevent limiting developers in type of dark mode style designing.
 
 ### Changelog
 
@@ -57,6 +57,10 @@ And some major improvement.
 Fix dropdown size problem, 
 Add dark style to using in dark mode, 
 And some major improvement.
+
+#### 1.0.1
+Fix bad style in new select2 version for remove btn in multi select,
+Add .dark and .dark-theme class on body for dark mode auto styling.
 
 #### Copyright and license
 
