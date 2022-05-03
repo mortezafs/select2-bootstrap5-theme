@@ -135,7 +135,7 @@
   color: #fff;
 }
 .select2-container--bootstrap5 .select2-results > .select2-results__options {
-  max-height: 60vh;
+  max-height: 200vh;
   overflow-y: auto;
 }
 .select2-container--bootstrap5.select2-container--open .select2-selection {
