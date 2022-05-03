@@ -1,4 +1,4 @@
-A [Select2](https://github.com/select2) v4 [Theme](https://select2.org/appearance#themes) for [Bootstrap v5.0.0-beta1](https://getbootstrap.com)
+A [Select2](https://github.com/select2) v4 [Theme](https://select2.org/appearance#themes) for [Bootstrap v5.1.3](https://getbootstrap.com)
 <p></p>
 
 [![select2-bootstrap5 version](https://img.shields.io/badge/select2--bootstrap5-v1.0.0-success)](https://github.com/mortezafs/select2-bootstrap5-theme/releases)
